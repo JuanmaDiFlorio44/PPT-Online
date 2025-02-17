@@ -1,6 +1,3 @@
-# App-piedra-papel-o-tijera-online
+# PPT-Online
 
-Link de la app
-
-Documentación de la API en postman:
-https://documenter.getpostman.com/view/21301641/VVBUx6qS
+https://juanmadiflorio44.github.io/PPT-Online/
